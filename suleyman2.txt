@@ -1,0 +1,1 @@
+ github'dan eklenen direk merge yapılmayacak suleyman2.txt dosyasidir
