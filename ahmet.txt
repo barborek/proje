@@ -1,1 +1,2 @@
 main uzernde yapilan testtir
+conflict testi icin mainden yapilan ekleme
