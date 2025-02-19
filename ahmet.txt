@@ -1,1 +1,3 @@
 main uzernde yapilan testtir
+yeni satir git diff testi
+var olan ahmet dosyasine conlift testi icin ekleme yapildi
