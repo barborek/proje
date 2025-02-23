@@ -1,2 +1,7 @@
 main uzernde yapilan testtir
+<<<<<<< HEAD
 conflict testi icin mainden yapilan ekleme
+=======
+yeni satir git diff testi
+var olan ahmet dosyasine conlift testi icin ekleme yapildi
+>>>>>>> conflict_test
