@@ -1,1 +1,2 @@
-Bu bir testtir
+#ilk proje
+#ilk proje daha da gelistirildi
