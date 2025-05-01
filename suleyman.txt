@@ -1,1 +1,2 @@
 github'dan doğrudan eklnen suleyman.txt dosyasıdır.
+feature pull req testi
