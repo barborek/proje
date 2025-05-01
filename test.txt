@@ -1,3 +1,2 @@
-Bu bir testtir
 ek deneme
 pull request test
